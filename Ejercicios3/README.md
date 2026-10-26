@@ -1,0 +1,1 @@
+Este archivo contiene 7 ejercicios muy retadores de la practica del ciclo for la cual fue enseniada en la anterior clase, eso nos ayuda a mejorar nuestras competencias y desarrollar logica de programacion
